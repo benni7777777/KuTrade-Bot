@@ -2,8 +2,45 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Trading](https://img.shields.io/badge/Trading-High%20Risk-red)
 
 An automated cryptocurrency trading bot for KuCoin Futures markets that generates trading signals, executes trades, and manages positions automatically.
+
+## ⚠️ IMPORTANT DISCLAIMER
+
+**USE THIS SOFTWARE AT YOUR OWN RISK. TRADING CRYPTOCURRENCIES IS EXTREMELY RISKY.**
+
+By using this software, you understand and agree that:
+
+1. Cryptocurrency trading involves substantial risk of loss and is not suitable for all investors
+2. Past performance is not indicative of future results
+3. This bot is provided strictly as open-source software, with NO GUARANTEES of:
+   - Profit or income
+   - Fitness for any particular purpose
+   - Accuracy of trading signals
+   - Protection against financial losses
+
+4. The creator(s) and contributors:
+   - Accept NO RESPONSIBILITY for your trading results
+   - Are NOT financial advisors
+   - Make NO CLAIMS about trading performance
+   - Cannot and will not provide trading advice
+
+5. You are strongly advised to:
+   - Never trade with money you cannot afford to lose
+   - Start with small amounts to test the system
+   - Understand all risks involved
+   - Consult with licensed financial advisors before trading
+
+### Why Open Source?
+
+This project is open-sourced under the MIT license because:
+1. We believe in transparency and community-driven development
+2. Trading algorithms should be open for inspection and improvement
+3. Educational purposes - to help others learn about algorithmic trading
+4. Commitment to the open-source philosophy of sharing knowledge
+
+**Remember:** Just because this code is open source doesn't mean it's risk-free. Always do your own research and testing.
 
 ## 🙏 Special Thanks
 
